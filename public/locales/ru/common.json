@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "dashboard": "Дашборд",
+    "users": "Пользователи",
+    "settings": "Настройки"
+  },
+  "actions": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "create": "Создать",
+    "search": "Поиск"
+  },
+  "status": {
+    "loading": "Загрузка...",
+    "success": "Успешно",
+    "error": "Ошибка"
+  }
+} 
